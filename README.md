@@ -26,7 +26,7 @@ osv. til innlest tall.
 Programmet bør gi fornuftig feilmelding når bruker gir gal verdi.
 <h2>Preview:</h2>
 
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Pyramide/pyramide.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Pyramide/pyramide.png?raw=true)
 
 <h2>Oppgave 2B) Random spill</h2>
 Programmet trekker et tilfeldig tall mellom 1 og 100, bruker skal gjette tallet iterativt (om igjen) til suksess. <br>
