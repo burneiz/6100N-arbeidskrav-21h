@@ -55,7 +55,7 @@ Du valgte å avslutte. Det hemmelige tallet var 42. Takk for nå!<br>
 
 <h2>Preview:</h2>
 
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Random_spill/random_spill.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Random_spill/random_spill.png?raw=true)
 
 <h2>Oppgave 2C) Diskopprydding</h2>
 
@@ -79,7 +79,7 @@ diskrydding [ str ] l loggfil ] r] [ katalog] ...
 
 <h2>Preview:</h2>
 
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Diskrydding/for_slett.png?raw=true)
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Diskrydding/etter_slett.png?raw=true)
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Diskrydding/komprimering.png?raw=true)
-![alt text](https://github.com/binariicodice/6100N-arbeidskrav-21h/blob/main/Diskrydding/log_fil.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Diskrydding/for_slett.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Diskrydding/etter_slett.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Diskrydding/komprimering.png?raw=true)
+![alt text](https://github.com/newmanman/6100N-arbeidskrav-21h/blob/main/Diskrydding/log_fil.png?raw=true)
